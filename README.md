@@ -3,11 +3,20 @@
 <h1 align="center">Hola 👋, soy Aldair</h1>
 <h2 align="center">Un apasionado desarrollador Backend .NET</h2>
 
-## 📖 About me
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact **Coding is a passion and not profession.**
+## 📖 Acerca de mí
+- 🔭 Actualmente estoy trabajando en mis proyectos paralelos.
+- 🌱 Actualmente estoy aprendiendo arquitectura de software.
+- 🤝 Estoy buscando ayuda con **Diseño de backend**
+- 💬 Pregúntame sobre C#
+- 📫 Cómo contactarme: parte de contacto
+- 😄 Pronombres:
+- ⚡ Dato curioso **La codificación es una pasión y no una profesión.**
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
