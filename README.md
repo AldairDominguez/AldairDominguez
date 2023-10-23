@@ -35,8 +35,6 @@
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             <td><a href="#"><img alt="C#" title="C#" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
             <td><a href="#"><img alt="Java" title="Java" height="28px"
@@ -70,14 +68,12 @@
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
             <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
         </tr>
     </tbody>
 </table>
-----
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
