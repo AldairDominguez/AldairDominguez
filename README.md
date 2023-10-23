@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hola 👋, soy Aldair</h1>
-<h3 align="center">Un apasionado desarrollador frontend </h3>
+<h3 align="center">Un apasionado desarrollador Backend </h3>
 
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
