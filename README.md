@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, soy Aldair</h1>
 <h2 align="center">Un apasionado desarrollador Backend .NET</h2>
-
+## 📖 About me
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
