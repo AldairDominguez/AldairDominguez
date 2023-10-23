@@ -44,6 +44,8 @@
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
         </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
@@ -56,8 +58,6 @@
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
         </tr>
         <tr>
