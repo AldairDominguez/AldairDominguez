@@ -80,7 +80,7 @@
 </table>
 
 <hr>    
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conéctate conmigo 🤝</h3>
 <p align="center">
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
