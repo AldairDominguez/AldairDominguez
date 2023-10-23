@@ -3,7 +3,8 @@
 <h1 align="center">Hola 👋, soy Aldair</h1>
 <h2 align="center">Un apasionado desarrollador Backend .NET</h2>
 
-## 📖 Acerca de mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>  Acerca de mí
+
 - 🔭 Actualmente estoy trabajando en mis proyectos paralelos.
 - 🌱 Actualmente estoy aprendiendo arquitectura de software.
 - 🤝 Estoy buscando ayuda con **Diseño de backend**
