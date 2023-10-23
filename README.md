@@ -54,8 +54,8 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
+            <td><a href="#"><img alt="Visual Studio 2022" title="Visual Studio 2022" height="28px"
+                        src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" /></a></td>
             <td><a href="#"><img alt="Booststrap" title="Booststrap" height="28px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a></td>
             </td>
@@ -67,7 +67,7 @@
             <td><a href="#"><img alt="Sql-server" title="Sql-server" height="28px"
                         src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/></a>    
             </td>        
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+            <td><a href="#"><img alt="Visual Studio Code" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
