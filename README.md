@@ -13,7 +13,7 @@
 - 📫 Cómo contactarme: parte de contacto
 - ⚡ Dato curioso **La codificación es una pasión y no una profesión.**
 
-### Lenguajes de programación 🌐
+### Lenguajes de programación y herramientas 🌐
 
 <table>
     <tbody>
