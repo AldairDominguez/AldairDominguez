@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <td><a href="#"><img alt="Sql-server" title="Sql-server" height="28px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
+                        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/></a>    
             </td>        
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
