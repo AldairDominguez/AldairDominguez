@@ -82,9 +82,9 @@
 <hr>    
 <h3 align="center">Conéctate conmigo 🤝</h3>
 <p align="center">
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/aldair8088/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldair8088" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aldairdz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldairdz" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100007465247441" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/aldairdo.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldairdo.dev" height="30" width="40" /></a>
 </p>
  
 <p align="center">
